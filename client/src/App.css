@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+  background: none;
+  text-decoration: none;
+  list-style: none;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.underline{
+  border-bottom: 2.5px solid #f0f0f0;
+  margin: 10px 0;
+}
+
+.linkicons{
+  font-size: 30px;
+  cursor: pointer;
+  color: #242424;
+}
+.linkicons:hover{
+  color: orange;
+}
+
+.icon{
+  font-size: 25px;
+  color: orange;
+  margin: 0 10px;
+}
+
+.template{
+ 
+}
+

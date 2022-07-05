@@ -1,0 +1,1 @@
+export const baseUrl = 'https://edr-blog-app.herokuapp.com'
